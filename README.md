@@ -1,2 +1,3 @@
 # WebDev-Project2
-Tindog website is for pet dogs, just like tinder.
+Tindog - dating app for your pet dogs !!! Developed this for fun while learning web development through Udemy.
+A small responsive website project.
